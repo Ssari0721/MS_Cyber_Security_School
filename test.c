@@ -66,8 +66,8 @@ int main(void)
 	
 	printf("================================\n");	
 	
-	printf("My age : \\"%d\\"\n", age);
-	printf("\\"%d\\" is my point \n", score);
+	printf("My age : %d\n", age);
+	printf("%d is my point \n", score);
 	
 	return 0;
 }
