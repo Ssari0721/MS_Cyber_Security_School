@@ -11,9 +11,9 @@ int main()
 int main(void)
 {
 	
-	int age, score;		// int(Á¤¼ö)º¯¼ö ¼±¾ğ¹® 
+	int age, score;		// int(ì •ìˆ˜)ë³€ìˆ˜ ì„ ì–¸ë¬¸ 
 	
-	// ±×³É ÀÔ·Â 
+	// ê·¸ëƒ¥ ì…ë ¥ 
 	printf("My age : 25\n");
 	printf("\n");
 	printf("100 is my point\n");
@@ -21,7 +21,7 @@ int main(void)
 	printf("Good\nmorring\neverybody\n");
 	printf("\n");
 	
-	//ÇÔ¼ö·Î Àû¿ë 
+	//í•¨ìˆ˜ë¡œ ì ìš© 
 	printf("My age : %d\n", 20);
 	printf("\n");
 	printf("100 is my point \n", 100);
@@ -29,45 +29,47 @@ int main(void)
 	printf("Good \nmorring \neverybody \n");
 	printf("\n");
 	
-	//ÇÑÁÙ·Î ¸¸µé±â 
+	//í•œì¤„ë¡œ ë§Œë“¤ê¸° 
 	printf("--------------------------------\n\n");
 	printf("My age : %d \n \n%d is my point \n \nGood \nmorring \neveybody \n", 20, 100);
 	printf("--------------------------------\n");
 	
-	//scanf ¿¬½À
-	printf("´ç½ÅÀÇ ³ªÀÌ°¡ ¾î¶»°Ô µÇ½Ã³ª¿ä? ");
+	//scanf ì—°ìŠµ
+	printf("ë‹¹ì‹ ì˜ ë‚˜ì´ê°€ ì–´ë–»ê²Œ ë˜ì‹œë‚˜ìš”? ");
 	scanf("%d", &age); 
 	printf("_%d_\n", age);
 	
 	printf("--------------------------------\n");	
 	
-	printf("Á¡¼ö´Â¿ä? ");
+	printf("ì ìˆ˜ëŠ”ìš”? ");
 	scanf("%d", &score); 
 	printf("_%d_\n\n", score);
 	
 	printf("--------------------------------\n");	
 		
-	//scanf ¿¬½À_01
+	//scanf ì—°ìŠµ_01
 	/*
-	printf("´ç½ÅÀÇ ³ªÀÌ°¡ ¾î¶»°Ô µÇ½Ã³ª¿ä? "); scanf("%d", &age); 
+	printf("ë‹¹ì‹ ì˜ ë‚˜ì´ê°€ ì–´ë–»ê²Œ ë˜ì‹œë‚˜ìš”? "); scanf("%d", &age); 
 	printf("_%d_\n", age);
 	
 	printf("--------------------------------\n");	
 	
-	printf("Á¡¼ö´Â¿ä? "); scanf("%d", &score); 
+	printf("ì ìˆ˜ëŠ”ìš”? "); scanf("%d", &score); 
 	printf("_%d_\n", score);
 	
 	printf("--------------------------------\n");	
 	*/
 	
-	//scanf ¿¬½À_02
-	printf("´ç½ÅÀÇ ³ªÀÌ°¡ ¾î¶»°Ô µÇ½Ã³ª¿ä? "); scanf("%d", &age); 
-	printf("Á¡¼ö´Â¿ä? "); scanf("%d", &score); 
+	//scanf ì—°ìŠµ_02
+	printf("ë‹¹ì‹ ì˜ ë‚˜ì´ê°€ ì–´ë–»ê²Œ ë˜ì‹œë‚˜ìš”? "); scanf("%d", &age); 
+	printf("ì ìˆ˜ëŠ”ìš”? "); scanf("%d", &score); 
 	
 	printf("================================\n");	
 	
 	printf("My age : %d\n", age);
 	printf("%d is my point \n", score);
+
+	printf("================================\n");
 	
 	return 0;
 }
