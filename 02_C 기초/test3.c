@@ -13,6 +13,4 @@ int main()
 	x=0, y=1, printf("%d  %d  %d  %d  %d  %d\n", x, y, x&&y, x||y, x^y, !x);
 	x=0, y=0, printf("%d  %d  %d  %d  %d  %d\n", x, y, x&&y, x||y, x^y, !x);
 	
-		 
-	
  } 
