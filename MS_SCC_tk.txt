@@ -1,2 +1,3 @@
-github_Tokken
+github_info
+https://github.com/Ssari0721/MS_Cyber_Security_School.git
 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
