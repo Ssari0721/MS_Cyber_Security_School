@@ -1,0 +1,36 @@
+total 248
+drwxrwxr-x. 2 ssari ssari  4096 Sep  3 11:32 ./
+drwxrwxr-x. 6 ssari ssari   262 Sep  2 10:50 ../
+-rw-rw-r--. 1 ssari ssari     0 Sep  3 11:31 @@�?@8
+-rwxrwxr-x. 1 ssari ssari 16096 Sep  1 11:42 p12*
+-rwxrwxr-x. 1 ssari ssari 18176 Sep  3 11:27 t13*
+-rwxrwxr-x. 1 ssari ssari 17560 Sep  1 12:32 t13__*
+-rwxrwxr-x. 1 ssari ssari 16048 Sep  1 11:42 t13_0*
+-rwxrwxr-x. 1 ssari ssari 16368 Sep  1 11:42 t13_1*
+-rwxrwxr-x. 1 ssari ssari 16536 Sep  1 11:42 t13_2*
+-rwxrwxr-x. 1 root  root  17528 Sep  2 16:42 t14*
+-rwxrwxr-x. 1 ssari ssari 17296 Sep  3 10:36 t14_1*
+-rw-rw-r--. 1 ssari ssari    91 Sep  2 16:39 test
+-rw-rw-r--. 1 ssari ssari   783 Sep  1 11:42 test10.c
+-rw-rw-r--. 1 ssari ssari   420 Sep  1 11:42 test11.c
+-rw-rw-r--. 1 ssari ssari   145 Sep  1 11:42 test12.c
+-rw-rw-r--. 1 ssari ssari   998 Sep  1 11:42 test13_0.c
+-rw-rw-r--. 1 ssari ssari  1088 Sep  1 11:42 test13_1.c
+-rw-rw-r--. 1 ssari ssari  2214 Sep  1 11:42 test13_2.c
+-rw-rw-r--. 1 ssari ssari  4334 Sep  1 11:42 test13.c
+-rw-rw-r--. 1 ssari ssari    98 Sep  3 10:35 test14_1.c
+-rw-rw-r--. 1 ssari ssari    96 Sep  2 16:41 test14.c
+-rw-rw-r--. 1 ssari ssari   164 Sep  1 11:42 test2.c
+-rw-rw-r--. 1 ssari ssari   487 Sep  1 11:42 test3.c
+-rw-rw-r--. 1 ssari ssari   216 Sep  1 11:42 test4.c
+-rw-rw-r--. 1 ssari ssari   600 Sep  1 11:42 test5_while.c
+-rw-rw-r--. 1 ssari ssari  1401 Sep  1 11:42 test6_do_while.c
+-rw-rw-r--. 1 ssari ssari  1570 Sep  1 11:42 test7_if_1.c
+-rw-rw-r--. 1 ssari ssari  1850 Sep  1 11:42 test7_if_2.c
+-rw-rw-r--. 1 ssari ssari  1634 Sep  1 11:42 test7_if_3.c
+-rw-rw-r--. 1 ssari ssari  1795 Sep  1 11:42 test7_if.c
+-rw-rw-r--. 1 ssari ssari  1073 Sep  1 11:42 test8_Funstion.c
+-rw-rw-r--. 1 ssari ssari  1200 Sep  1 11:42 test9._과제 실습c.c
+-rw-rw-r--. 1 ssari ssari  1274 Sep  1 11:42 test9_keyinput.c
+-rw-rw-r--. 1 ssari ssari  1645 Sep  1 11:42 test.c
+-rw-rw-r--. 1 ssari ssari     0 Sep  3 11:32 ttt.txt
